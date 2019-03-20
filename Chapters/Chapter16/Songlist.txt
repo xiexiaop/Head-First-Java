@@ -1,6 +1,6 @@
-Communication/The Gardigans
-Black Dog/Led Zeppelin
-Dreams/Van Halen
-Comfortably Numb/Pink Floyd
-Beth/Kiss
-倒退路／黄克林
+Communication/The Gardigans/1/a
+Black Dog/Led Zeppelin/2/b
+Dreams/Van Halen/3/c
+Comfortably Numb/Pink Floyd/4/d
+Beth/Kiss/3/e
+倒退路/黄克林/1/f

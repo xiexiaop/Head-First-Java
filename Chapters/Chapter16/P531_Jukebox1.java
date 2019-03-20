@@ -6,6 +6,8 @@ class Jukebox1 {
 
     void go() {
         getSongs();
+        // 排序
+        Collections.sort(songList);
         System.out.println(songList);
     }
 
@@ -17,7 +19,6 @@ class Jukebox1 {
             String line;
             while ((line = br.readLine()) != null) {
                 addSong(line);
-                System.out.println(line);
             }
         } catch (IOException e) {
             e.printStackTrace();
